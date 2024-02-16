@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "9c068591f6560fbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a1f7fbd0ef39501",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bafb6286c4c3eb3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-GeekTime/高级体系课/5-数据库进阶/1_MySQL架构篇.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d27bd2a9dbec5f5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e12c8a4d647435d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc0d431a5c81e2a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6fa2512928994303",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "835536a5e01ee39f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9a7c454237498537",
+    "type": "split",
+    "children": [
+      {
+        "id": "23127465415bf7f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13066f50e7be702b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04-GeekTime/高级体系课/5-数据库进阶/1_MySQL架构篇.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b08de2bb95ad54ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "04-GeekTime/高级体系课/5-数据库进阶/1_MySQL架构篇.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "740398d43d751e5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f9570f298d89ae8c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04-GeekTime/高级体系课/5-数据库进阶/1_MySQL架构篇.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": true,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "bafb6286c4c3eb3b",
+  "lastOpenFiles": [
+    "1_MySQL架构篇.pdf",
+    "04-GeekTime/高级体系课/1-项目性能优化/项目性能优化.md",
+    "README.md"
+  ]
+}
